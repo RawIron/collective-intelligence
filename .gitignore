@@ -99,3 +99,40 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# vim
+*.swp
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# text files
+*.log
+*.txt
+*.csv
+
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE
+.scala_dependencies
